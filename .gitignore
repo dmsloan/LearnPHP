@@ -294,3 +294,4 @@ nbactions.xml
 ### NotepadPP ###
 # Notepad++ backups #
 *.bak
+*.test
