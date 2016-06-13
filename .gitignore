@@ -293,6 +293,10 @@ nbactions.xml
 
 ### NotepadPP ###
 # Notepad++ backups #
+<<<<<<< HEAD
 *.bak
 ### left the following line on Linux ###
 *.test
+=======
+*.bak
+>>>>>>> 3f203d0002435b948431a0ad541b347829c905ce
