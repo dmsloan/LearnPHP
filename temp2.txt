@@ -1,0 +1,3 @@
+Changed after commit
+Changed again but did not add prior to commiting is this spelled wrong?
+Changed again after adding but before commiting
