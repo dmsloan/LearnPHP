@@ -280,9 +280,8 @@ paket-files/
 ### VisualStudioCode ###
 .vscode
 
-
-
 ### NetBeans ###
+nbproject/
 nbproject/private/
 build/
 nbbuild/
