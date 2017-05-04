@@ -279,10 +279,14 @@ paket-files/
 
 ### VisualStudioCode ###
 .vscode
-
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
 
 ### NetBeans ###
+nbproject/
 nbproject/private/
 build/
 nbbuild/
